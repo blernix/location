@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100" role="img">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#9fd8f2"/>
+    <stop offset="55%" stop-color="#cfeefb"/>
+    <stop offset="100%" stop-color="#fdf6e8"/>
+  </linearGradient><radialGradient id="sunGlow"><stop offset="0%" stop-color="#ffeec2" stop-opacity="0.95"/><stop offset="100%" stop-color="#ffeec2" stop-opacity="0"/></radialGradient><linearGradient id="sandg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f8ecd2"/><stop offset="100%" stop-color="#ecd8ae"/>
+  </linearGradient><linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#69c096"/><stop offset="100%" stop-color="#3c8f74"/>
+    </linearGradient></defs>
+  <rect width="1600" height="1100" fill="url(#sky)"/><g opacity="0.52" transform="translate(205.76 215.58) scale(1.1)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><g opacity="0.53" transform="translate(338.84 141.32) scale(0.93)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><g opacity="0.57" transform="translate(1311.84 147.07) scale(1.25)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><g opacity="0.73" transform="translate(1224.86 211.28) scale(0.91)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><g opacity="0.44" transform="translate(870.02 149.44) scale(0.64)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><g opacity="0.52" transform="translate(1051.21 179.64) scale(1.44)">
+      <ellipse cx="0" cy="0" rx="90" ry="26" fill="#ffffff"/>
+      <ellipse cx="-55" cy="8" rx="60" ry="20" fill="#ffffff"/>
+      <ellipse cx="58" cy="6" rx="66" ry="22" fill="#ffffff"/>
+      <ellipse cx="10" cy="-16" rx="54" ry="24" fill="#ffffff"/>
+    </g><circle cx="320" cy="220" r="252" fill="url(#sunGlow)"/><circle cx="320" cy="220" r="70" fill="#fffbe0"/><path d="M 231.33 161.15 q 9.47 -10.52 18.94 0 q 9.47 -10.52 18.94 0" stroke="#33475a" stroke-width="2.53" fill="none" stroke-linecap="round" opacity="0.5"/><path d="M 962.15 189.48 q 8.94 -9.93 17.88 0 q 8.94 -9.93 17.88 0" stroke="#33475a" stroke-width="2.38" fill="none" stroke-linecap="round" opacity="0.5"/><path d="M 257.93 228.32 q 11.43 -12.7 22.86 0 q 11.43 -12.7 22.86 0" stroke="#33475a" stroke-width="3.05" fill="none" stroke-linecap="round" opacity="0.5"/><path d="M 1337.43 228.8 q 9.7 -10.78 19.41 0 q 9.7 -10.78 19.41 0" stroke="#33475a" stroke-width="2.59" fill="none" stroke-linecap="round" opacity="0.5"/><path d="M 0 1100 L 0 476 Q 133.33 452.7 266.67 466.02 Q 400 323.39 266.67 413.03 Q 400 430.93 533.33 470.19 Q 666.67 372.72 533.33 411.66 Q 666.67 369.56 800 451.56 Q 933.33 421.5 800 435.57 Q 933.33 341.8 1066.67 471.92 Q 1200 349.88 1066.67 438.06 Q 1200 396.74 1333.33 464.31 Q 1466.67 394.25 1333.33 410.47 Q 1466.67 403.34 1600 435.68 L 1600 1100 Z" fill="#3c8f74" opacity="0.72"/><path d="M 0 1100 L 0 446 Q 114.29 313.9 228.57 396.25 Q 342.86 406.01 228.57 386.67 Q 342.86 296.13 457.14 441.55 Q 571.43 324.6 457.14 355.46 Q 571.43 363.8 685.71 428.72 Q 800 320.84 685.71 364.52 Q 800 414.91 914.29 444.81 Q 1028.57 381.6 914.29 398.79 Q 1028.57 292.18 1142.86 411.6 Q 1257.14 354.85 1142.86 362.35 Q 1257.14 269.19 1371.43 411.33 Q 1485.71 401.08 1371.43 391.14 Q 1485.71 399.86 1600 396.38 L 1600 1100 Z" fill="#4fa882" opacity="0.88"/><path d="M 0 1100 L 0 416 Q 100 313.43 200 408.27 Q 300 345.69 200 387.34 Q 300 338.44 400 393.37 Q 500 350.35 400 384.6 Q 500 362.23 600 408.83 Q 700 379.06 600 378.89 Q 700 278.57 800 405.63 Q 900 356.5 800 373.15 Q 900 316.14 1000 409.97 Q 1100 350.62 1000 386.11 Q 1100 335.52 1200 381.59 Q 1300 355.44 1200 378.5 Q 1300 348.72 1400 393.75 Q 1500 319 1400 383.2 Q 1500 354.89 1600 394.2 L 1600 1100 Z" fill="#69c096" opacity="1"/><path d="M 0 880 Q 560 840 1120 890 Q 1376 910 1600 874 L 1600 1100 L 0 1100 Z" fill="url(#grass)"/><g>
+    <path d="M 182.8 1094.5 Q 200.74 904.75 226.5 749.5 L 240.3 749.5 Q 215.69 904.75 202.35 1094.5 Z" fill="#8f6538"/>
+    <path d="M 182.8 1094.5 Q 200.74 904.75 226.5 749.5" stroke="#634324" stroke-width="2.76" fill="none" opacity="0.55"/><path d="M 233.4 749.5 Q 148.68 775.44 63.96 820.92 Q 144.37 752.84 233.4 749.5 Z" fill="#256e36" opacity="0.96"/><path d="M 233.4 749.5 Q 135.38 734.11 37.36 738.27 Q 141.1 711.83 233.4 749.5 Z" fill="#37974c" opacity="0.96"/><path d="M 233.4 749.5 Q 143.9 685.24 54.41 640.53 Q 158.57 667.52 233.4 749.5 Z" fill="#256e36" opacity="0.96"/><path d="M 233.4 749.5 Q 196.68 681.23 159.95 632.52 Q 217.49 671.44 233.4 749.5 Z" fill="#37974c" opacity="0.96"/><path d="M 233.4 749.5 Q 233.4 658.08 233.4 586.2 Q 256.4 658.08 233.4 749.5 Z" fill="#256e36" opacity="0.96"/><path d="M 233.4 749.5 Q 282.85 654.18 332.31 578.41 Q 303.67 663.97 233.4 749.5 Z" fill="#37974c" opacity="0.96"/><path d="M 233.4 749.5 Q 299.86 704.3 366.31 678.64 Q 314.52 722.02 233.4 749.5 Z" fill="#256e36" opacity="0.96"/><path d="M 233.4 749.5 Q 331.42 734.11 429.44 738.27 Q 337.14 756.38 233.4 749.5 Z" fill="#37974c" opacity="0.96"/><path d="M 233.4 749.5 Q 347.49 781.04 461.59 832.13 Q 343.18 803.63 233.4 749.5 Z" fill="#256e36" opacity="0.96"/><circle cx="220.75" cy="766.75" r="9.2" fill="#7c4a24"/>
+      <circle cx="244.9" cy="772.5" r="8.05" fill="#8d5628"/></g>
+</svg>
